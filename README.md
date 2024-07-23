@@ -17,3 +17,12 @@ This project was developed during the Discovery Hackathon as part of the Ctrl-Al
 - **Backend**: TensorFlow for AI model training and inference.
 - **Database**: SQLite for storing patient records.
 - **Other Tools**: Miro for user journey mapping.
+
+## Usage
+- **General Practitioners**: Create and manage patient records, refer cases to specialists.
+- **Radiologists**: Analyze X-rays for lung disease diagnosis and provide diagnostic reports.
+- **Pulmonologists**: Review comprehensive patient data and develop treatment plans.
+
+## Future Work
+- Extend AI capabilities to detect other diseases beyond lung conditions.
+- Incorporate multi-modal data for comprehensive diagnostics.
