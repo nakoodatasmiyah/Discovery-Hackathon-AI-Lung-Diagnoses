@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+pandas
+numpy
+Pillow
+streamlit-option-menu
+
